@@ -1,0 +1,5 @@
+
+::selection {
+    background-color: #ff9e42; /* Background color for selected text */
+    color: white;              /* Text color for selected text */
+  }
